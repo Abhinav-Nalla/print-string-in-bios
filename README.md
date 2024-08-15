@@ -1,5 +1,7 @@
 This program prints text in BIOS without the need of an operating system!
 
+images/Screenshot.png
+
 Assembled with NASM:
   nasm boot.asm -f bin -o boot.bin
 
